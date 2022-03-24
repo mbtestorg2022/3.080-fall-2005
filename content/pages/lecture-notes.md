@@ -159,7 +159,7 @@ Exam 1
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Concepts of Materials Indices, Software Introduction (Guest lecturer: Jeremy Gregory) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB]({{< baseurl >}}/resources/lec_ms1))
+Concepts of Materials Indices, Software Introduction (Guest lecturer: Jeremy Gregory) ([PDF - 1.5 MB]({{< baseurl >}}/resources/lec_ms1))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -171,7 +171,7 @@ Concepts of Materials Indices, Software Introduction (Guest lecturer: Jeremy Gre
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Material and Shape Selection (Guest lecturer: Jeremy Gregory) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec_ms2))
+Material and Shape Selection (Guest lecturer: Jeremy Gregory) ([PDF]({{< baseurl >}}/resources/lec_ms2))
 {{< tdclose >}}
 {{< tdopen >}}
  
